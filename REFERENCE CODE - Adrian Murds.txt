@@ -1,0 +1,9 @@
+REFERENCE CODE
+
+
+LINKING & NEW TAB:
+Attribute
+<a href="www.youtube.com/" target="_blank"> See Profile</a>
+
+<p> paragraph of the text </p>
+<button> Adrian Murden Pico </button>
